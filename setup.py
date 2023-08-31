@@ -10,7 +10,6 @@ setup(
         'pickle',
         'nltk.corpus',
         'nltk.stem.porter',
-        'string'
     ],
     entry_points={
         'console_scripts': [
