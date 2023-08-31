@@ -8,8 +8,6 @@ setup(
         'streamlit',
         'nltk',
         'pickle',
-        'nltk.corpus',
-        'nltk.stem.porter',
     ],
     entry_points={
         'console_scripts': [
