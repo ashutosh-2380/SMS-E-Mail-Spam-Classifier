@@ -1,8 +1,6 @@
 ﻿streamlit
 tensorflow
 nltk
-nltk.corpus
-nltk.stem.porter
 pandas
 pickle
 numpy
