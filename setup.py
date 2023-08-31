@@ -7,7 +7,7 @@ setup(
     install_requires=[
         'streamlit',
         'nltk',
-        'pickle',
+        'pickleshare==0.7.5'
     ],
     entry_points={
         'console_scripts': [
