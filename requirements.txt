@@ -2,7 +2,5 @@
 tensorflow
 nltk
 pandas
-pickle
+pickleshare==0.7.5
 numpy
-matplotlib
-wordcloud
