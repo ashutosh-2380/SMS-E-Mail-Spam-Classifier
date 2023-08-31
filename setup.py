@@ -7,7 +7,8 @@ setup(
     install_requires=[
         'streamlit',
         'nltk',
-        'pickleshare==0.7.5'
+        'pickleshare==0.7.5',
+        'scikit-learn==1.3.0'
     ],
     entry_points={
         'console_scripts': [
